@@ -5,12 +5,12 @@
 </div>
 
 ### 🚀 Sobre Mim
-Desenvolvedor de software focado na criação de sistemas backend escaláveis e eficientes. Minha paixão pela tecnologia me levou a especializar em arquiteturas robustas, sempre priorizando a performance, a segurança e a facilidade de manutenção em cada projeto.
+Desenvolvedor de software com foco na criação de sistemas backend e aplicações estruturadas. Tenho grande interesse em arquiteturas de sistemas, buscando sempre aplicar boas práticas de desenvolvimento, performance e segurança em cada projeto.
 
-- 🧠 Especialista em **Python** e **FastAPI** para desenvolvimento de APIs de alta performance.
-- 🗄️ Amplo domínio de bancos de dados relacionais e ORMs como **SQLAlchemy**.
-- 🛡️ Entusiasta de **Segurança de Servidores**, focado em garantir a integridade e proteção de dados.
-- 🏗️ Experiência em arquiteturas CRUD, sistemas de autenticação e aplicações orientadas a dados.
+- 🐍 Desenvolvimento de APIs e sistemas utilizando **Python** e **FastAPI**.
+- 🗄️ Trabalho com bancos de dados relacionais e integração via **SQLAlchemy**.
+- 🛡️ Interesse em **Segurança de Servidores** e proteção de dados em aplicações web.
+- 🏗️ Construção de arquiteturas CRUD, sistemas de autenticação e fluxos de dados eficientes.
 
 ---
 
@@ -35,7 +35,7 @@ Desenvolvedor de software focado na criação de sistemas backend escaláveis e 
 
 ### 📫 Vamos nos conectar?
 
-Seja para discutir novos projetos, colaborações técnicas ou segurança de sistemas, sinta-se à vontade para entrar em contato:
+Seja para discutir tecnologia, colaborações técnicas ou segurança de sistemas, sinta-se à vontade para entrar em contato:
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/osvaldo-celotti-neto](https://www.linkedin.com/in/osvaldo-celotti-neto)
 - 📧 **E-mail:** [oncelotti@gmail.com](mailto:oncelotti@gmail.com)
