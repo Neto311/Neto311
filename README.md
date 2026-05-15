@@ -24,9 +24,17 @@ Desenvolvedor de software com foco na criação de sistemas backend e aplicaçõ
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <br />
-  <!-- Frontend & Tools -->
+  <!-- Frontend & Core Tools -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📚 Em constante aprendizado (Em desenvolvimento)
+Atualmente explorando e aprofundando conhecimentos em infraestrutura e virtualização:
+
+<div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
