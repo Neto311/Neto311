@@ -1,4 +1,4 @@
-<center><h1> Hello World, I'm Osvaldo Celotti Neto </h1></center> Olá, eu sou o Osvaldo Celotti Neto! ⚡
+<center><h1> Hello World, I'm Osvaldo Celotti Neto </h1></center>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Backend_Developer-000?style=for-the-badge&logo=python&logoColor=39FF14" />
